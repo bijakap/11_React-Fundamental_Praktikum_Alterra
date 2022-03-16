@@ -1,0 +1,10 @@
+.list-display{
+    margin: 15px 10px;
+}
+
+.Rounded-box{
+    border-radius: 25px;
+    padding: 10px;
+    border: 1px solid black;
+    display: inline-block;
+}
